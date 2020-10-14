@@ -35,5 +35,8 @@ html {
     height: 100%;
 }
 .escribir{
-	width: 300px;
+	width: 600px;
+}
+img.item{
+	max-width: 300px;
 }
