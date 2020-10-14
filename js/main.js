@@ -17,6 +17,7 @@ $('#imgRegalo').click(function(e){
   mostrarTexto();
 
   mostrarConfeti();
+  $('#audio')[0].play();
   
 });
 
